@@ -1,0 +1,14 @@
+C:\Users\bharathcr\source\repos\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\bharathcr\source\repos\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\bharathcr\source\repos\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.Employee.resources
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.Manager.resources
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.Project.resources
+C:\Users\bharathcr\source\repos\Employee\Employee\obj\Debug\Employee.Report.resources
